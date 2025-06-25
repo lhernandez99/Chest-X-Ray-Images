@@ -9,3 +9,5 @@ This project applies a Convolutional Neural Network (CNN) to classify chest X-ra
 **Task Type**: Supervised learning — Binary classification (Normal vs. Pneumonia)
 
 **Source**: Kermany, D., Zhang, K., & Goldbaum, M. (2018). *Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images for Classification*. Retrieved from [Kaggle](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
+
+Chest X-Ray Images (2).ipynb includes comments!
